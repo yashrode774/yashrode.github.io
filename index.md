@@ -1,6 +1,6 @@
 ## Hiii!
 
-I’m Yash Rode and I am a Drupal developer. [yash.rode]([https://www.drupal.org/user](https://www.drupal.org/u/yashrode)
+I’m Yash Rode and I am a Drupal developer. You can find me on [yash.rode](https://www.drupal.org/u/yashrode)
 
 
 ### Markdown
