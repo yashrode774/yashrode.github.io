@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yashrode774/yashrode774.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hiii!
+I’m Yash Rode and I am a Drupal developer. You can find me on [yash.rode](https://www.drupal.org/u/yashrode)
 
 ### Markdown
 
