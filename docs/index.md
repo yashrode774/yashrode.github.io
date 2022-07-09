@@ -1,25 +1,14 @@
 ## Hiii!
 I'm Yash Rode and I am a Drupal developer. You can find me on [yash.rode](https://www.drupal.org/u/yashrode)
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have completed my bachelor's degree in computer science from PICT, pune in 2021. I recently started working on Drupal, worked on migration from Drupal 7 to Drupal 9.
+
+### company 
+Acquia
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
