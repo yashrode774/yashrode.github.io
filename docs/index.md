@@ -2,7 +2,7 @@
 I'm Yash Rode and I am a Drupal developer. You can find me on [yash.rode](https://www.drupal.org/u/yashrode)
 
 ### About me
-
+![Image](photo/Yash_Rode_ZL1YDGMJH.jpg)
 I have completed my bachelor's degree in computer science from PICT, pune in 2021. I recently started working on Drupal, worked on migration from Drupal 7 to Drupal 9.
 
 ### company 
